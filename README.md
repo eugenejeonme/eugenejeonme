@@ -4,9 +4,11 @@
   
  </div>
 
-### Hi there 👋
+### 👋 Hi there!
 
-[![Eugene's github stats](https://github-readme-stats.vercel.app/api?username=eugenejeonme&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Eugene's github stats](https://github-readme-stats.vercel.app/api?username=eugenejeonme&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)-->
+
+### Skills 💪 
 
 <p float="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
