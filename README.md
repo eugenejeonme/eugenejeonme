@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feugenejeonme%2F&count_bg=%235D5FEF&title_bg=%23A5A6F6&icon=github.svg&icon_color=%23564AD4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
