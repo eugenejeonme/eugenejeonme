@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)-->
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=eugenejeonme&title=MultiLanguage,Commits,PullRequest,Repositories&theme=onedark)](https://github.com/eugenejeonme/github-profile-trophy)
