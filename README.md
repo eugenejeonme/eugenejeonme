@@ -72,6 +72,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mac/Mac Book 에서 유선랜과 와이파이 동시 사용 - 라우팅하기](https://oznote.io/mac-routing/)
+- [Apple Silicon Mac 에서 Pyenv 로 Miniforge 설치 및 셋업](https://oznote.io/miniforge-with-pyenv-in-apple-silicon/)
+- [MDX 코드에 스타일 적용기 &lpar;prism-react-renderer 적용하기&rpar;](https://oznote.io/apply-code-style-in-mdx/)
+- [Docker 를 이용한 React + Django + Nginx + MariaDB 환경 구축 2부](https://oznote.io/react+django+nginx+mariadb-environment-construction-with-docker-2/)
+- [Xcode Simulator - Safari 로 WEB 디버깅 하기](https://oznote.io/xcode-simulator-debugging/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--[![Eugene's github stats](https://github-readme-stats.vercel.app/api?username=eugenejeonme&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)-->
