@@ -22,10 +22,10 @@
 ### 👋 Hi there! I'm Eugene Jeon.
 
 <p>
-  I'm software developer and engineer.
-  At first, started as a server backend developer in the financial sector (bank).
-  In the middle, turned to a mobile developer and still operates a Flutter Study Group.
-  Now, interested in AI/ML, also operates a AI/ML study group.
+  I'm software developer and engineer.<br/>
+  At first, started as a server backend developer in the financial sector (bank).<br/>
+  In the middle, turned to a mobile developer and still operates a Flutter Study Group.<br/>
+  Now, interested in AI/ML, also operates a AI/ML study group.<br/>
 </p>
 
 ### Skills 
