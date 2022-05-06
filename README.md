@@ -76,6 +76,7 @@
 
 ### Blog Posts
 <!-- POSTS:START -->
+- [K8s &lpar;Kubernetes&rpar; - 배경 및 기본지식](https://oznote.io/post/k8s-(kubernetes)--배경-및-기본지식)
 <!-- POSTS:END -->
 
 ### Other Blog posts
