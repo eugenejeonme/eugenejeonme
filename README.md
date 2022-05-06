@@ -74,7 +74,7 @@
 <!-- FEATURED-POSTS:START -->
 <!-- FEATURED-POSTS:END -->
 
-# Blog Posts
+### Blog Posts
 <!-- POSTS:START -->
 <!-- POSTS:END -->
 
