@@ -76,6 +76,7 @@
 
 ### Blog Posts
 <!-- POSTS:START -->
+- [K8s &lpar;Kubernetes&rpar; - 가상환경 및 CLI 설치편](https://oznote.io/post/k8s-(kubernetes)--가상환경-및-cli-설치편)
 - [K8s &lpar;Kubernetes&rpar; - 배경 및 기본지식](https://oznote.io/post/k8s-(kubernetes)--배경-및-기본지식)
 <!-- POSTS:END -->
 
