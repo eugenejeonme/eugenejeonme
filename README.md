@@ -82,11 +82,11 @@
 
 ### Other Blog posts
 <!-- GATSBY-BLOG-POST-LIST:START -->
-- [React Native 프로젝트 Package Name &lpar;패키지명&rpar; 변경하기](https://oznote.io/guide-for-updating-package-name-in-react-native/)
-- [Github Action 을 이용해서 Github 프로필에 블로그 포스트 자동으로 업데이트하기](https://oznote.io/github-readme-with-blog-post-action/)
-- [Mac/Mac Book 에서 유선랜과 와이파이 동시 사용 - 라우팅하기](https://oznote.io/mac-routing/)
-- [Apple Silicon Mac 에서 Pyenv 로 Miniforge 설치 및 셋업](https://oznote.io/miniforge-with-pyenv-in-apple-silicon/)
-- [MDX 코드에 스타일 적용기 &lpar;prism-react-renderer 적용하기&rpar;](https://oznote.io/apply-code-style-in-mdx/)
+- [React Native 프로젝트 Package Name &lpar;패키지명&rpar; 변경하기](https://gatsby.oznote.io/guide-for-updating-package-name-in-react-native/)
+- [Github Action 을 이용해서 Github 프로필에 블로그 포스트 자동으로 업데이트하기](https://gatsby.oznote.io/github-readme-with-blog-post-action/)
+- [Mac/Mac Book 에서 유선랜과 와이파이 동시 사용 - 라우팅하기](https://gatsby.oznote.io/mac-routing/)
+- [Apple Silicon Mac 에서 Pyenv 로 Miniforge 설치 및 셋업](https://gatsby.oznote.io/miniforge-with-pyenv-in-apple-silicon/)
+- [MDX 코드에 스타일 적용기 &lpar;prism-react-renderer 적용하기&rpar;](https://gatsby.oznote.io/apply-code-style-in-mdx/)
 <!-- GATSBY-BLOG-POST-LIST:END -->
 
 <!--[![Eugene's github stats](https://github-readme-stats.vercel.app/api?username=eugenejeonme&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)-->
