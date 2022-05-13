@@ -106,7 +106,7 @@
 <!-- FEATURED-POSTS:START -->
 <!-- FEATURED-POSTS:END -->
 
-### Blog Posts
+### Blog Posts (Next.js with Notion)
 <!-- POSTS:START -->
 - [Ubuntu 서버에 Minikube 로 Kubernetes, Kubeflow 설치하기](https://oznote.io/post/ubuntu-서버에-minikube-로-kubernetes-kubeflow-설치하기)
 - [Docker Desktop 의 License 정책으로 인한 대안들 &lpar;MacOS 기준&rpar;](https://oznote.io/post/docker-desktop-의-license-정책으로-인한-대안들-macos-기준)
