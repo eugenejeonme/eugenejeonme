@@ -108,8 +108,8 @@
 
 ### Blog Posts (Next.js with Notion)
 <!-- POSTS:START -->
-- [Github Container Registry 사용하기](https://oznote.io/post/github-container-registry-사용하기)
 - [Ubuntu 서버에 Minikube 로 Kubernetes, Kubeflow 설치하기](https://oznote.io/post/ubuntu-서버에-minikube-로-kubernetes-kubeflow-설치하기)
+- [Github Container Registry 사용하기](https://oznote.io/post/github-container-registry-사용하기)
 - [Docker Desktop 의 License 정책으로 인한 대안들 &lpar;MacOS 기준&rpar;](https://oznote.io/post/docker-desktop-의-license-정책으로-인한-대안들-macos-기준)
 - [K8s &lpar;Kubernetes&rpar; - 가상환경 및 CLI 설치편](https://oznote.io/post/k8s-kubernetes--가상환경-및-cli-설치편)
 - [K8s &lpar;Kubernetes&rpar; - 배경 및 기본지식](https://oznote.io/post/k8s-kubernetes--배경-및-기본지식)
