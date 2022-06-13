@@ -104,6 +104,7 @@
 
 ### Featured Posts
 <!-- FEATURED-POSTS:START -->
+- [Synology NAS 에 Vaultwarden 설치하기](https://oznote.io/post/synology-nas-에-vaultwarden-설치하기)
 <!-- FEATURED-POSTS:END -->
 
 ### Blog Posts (Next.js with Notion)
