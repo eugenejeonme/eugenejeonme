@@ -109,11 +109,11 @@
 
 ### Blog Posts (Next.js with Notion)
 <!-- POSTS:START -->
+- [NAS 와 Linux 서버에서 Reverse Proxy Server 사용하기 &lpar;feat. Nginx Proxy Manager&rpar;](https://oznote.io/post/nas-와-linux-서버에서-reverse-proxy-server-사용하기-feat-nginx-proxy-manager)
 - [Synology NAS 에 Vaultwarden 설치하기](https://oznote.io/post/synology-nas-에-vaultwarden-설치하기)
 - [Github Container Registry 사용하기](https://oznote.io/post/github-container-registry-사용하기)
 - [Ubuntu 서버에 Minikube 로 Kubernetes, Kubeflow 설치하기](https://oznote.io/post/ubuntu-서버에-minikube-로-kubernetes-kubeflow-설치하기)
 - [Docker Desktop 의 License 정책으로 인한 대안들 &lpar;MacOS 기준&rpar;](https://oznote.io/post/docker-desktop-의-license-정책으로-인한-대안들-macos-기준)
-- [K8s &lpar;Kubernetes&rpar; - 가상환경 및 CLI 설치편](https://oznote.io/post/k8s-kubernetes--가상환경-및-cli-설치편)
 <!-- POSTS:END -->
 
 ### Gatsby4 Testing Blog posts
