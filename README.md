@@ -109,7 +109,7 @@
 
 ### Blog Posts (Next.js with Notion)
 <!-- POSTS:START -->
-- [NAS 와 Linux 서버에서 Reverse Proxy Server 사용하기 &lpar;feat. Nginx Proxy Manager&rpar;](https://oznote.io/post/nas-와-linux-서버에서-reverse-proxy-server-사용하기-feat-nginx-proxy-manager)
+- [NAS 와 Linux 서버에서 Reverse Proxy 사용하기 &lpar;feat. Nginx Proxy Manager&rpar;](https://oznote.io/post/nas-와-linux-서버에서-reverse-proxy-사용하기-feat-nginx-proxy-manager)
 - [Synology NAS 에 Vaultwarden 설치하기](https://oznote.io/post/synology-nas-에-vaultwarden-설치하기)
 - [Github Container Registry 사용하기](https://oznote.io/post/github-container-registry-사용하기)
 - [Ubuntu 서버에 Minikube 로 Kubernetes, Kubeflow 설치하기](https://oznote.io/post/ubuntu-서버에-minikube-로-kubernetes-kubeflow-설치하기)
