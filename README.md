@@ -93,6 +93,7 @@
   <div>
     <img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/carbon-000000?style=flat-square&logo=C&logoColor=white"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00"/>
