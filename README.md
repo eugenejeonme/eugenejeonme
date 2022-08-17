@@ -111,11 +111,11 @@
 
 ### Blog Posts (Next.js with Notion)
 <!-- POSTS:START -->
-- [K8s 의 Calico CNI 에 대해](https://oznote.io/post/k8s-의-calico-cni-에-대해)
+- [k8s 이용해서 웹 서버 구축하기 - 1부. install k3s with Calico](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--1부-install-k3s-with-calico)
+- [Synology NAS 에 Vaultwarden 설치하기](https://oznote.io/post/synology-nas-에-vaultwarden-설치하기)
 - [k3s 설치 후 설정 변경하기](https://oznote.io/post/k3s-설치-후-설정-변경하기)
+- [K8s 의 Calico CNI 에 대해](https://oznote.io/post/k8s-의-calico-cni-에-대해)
 - [Synology NAS 에서 Docker 를 이용하여 GitLab CE 설치하기](https://oznote.io/post/synology-nas-에서-docker-를-이용하여-gitlab-ce-설치하기)
-- [Linux - Ubuntu Command Book](https://oznote.io/post/linux--ubuntu-command-book)
-- [Ubuntu 서버에 Minikube 로 Kubernetes, Kubeflow 설치하기](https://oznote.io/post/ubuntu-서버에-minikube-로-kubernetes-kubeflow-설치하기)
 <!-- POSTS:END -->
 
 ### Gatsby4 Testing Blog posts
