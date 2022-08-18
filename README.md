@@ -105,6 +105,7 @@
 
 ### Featured Posts
 <!-- FEATURED-POSTS:START -->
+- [k8s 이용해서 웹 서버 구축하기 - 2부. setup nginx-ingress, ipvs, metalb](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--2부-setup-nginx-ingress-ipvs-metalb)
 - [k8s 이용해서 웹 서버 구축하기 - 1부. install k3s with Calico](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--1부-install-k3s-with-calico)
 - [스타트업, 어떤 아이디어로 시작할 것인가?](https://oznote.io/post/스타트업-어떤-아이디어로-시작할-것인가)
 <!-- FEATURED-POSTS:END -->
