@@ -111,11 +111,11 @@
 
 ### Blog Posts (Next.js with Notion)
 <!-- POSTS:START -->
+- [k8s 이용해서 웹 서버 구축하기 - 3부. deploy nextjs](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--3부-deploy-nextjs)
 - [k8s 이용해서 웹 서버 구축하기 - 2부. setup nginx-ingress, ipvs, metalb](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--2부-setup-nginx-ingress-ipvs-metalb)
 - [k8s 이용해서 웹 서버 구축하기 - 1부. install k3s with Calico](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--1부-install-k3s-with-calico)
 - [Synology NAS 에 Vaultwarden 설치하기](https://oznote.io/post/synology-nas-에-vaultwarden-설치하기)
 - [k3s 설치 후 설정 변경하기](https://oznote.io/post/k3s-설치-후-설정-변경하기)
-- [K8s 의 Calico CNI 에 대해](https://oznote.io/post/k8s-의-calico-cni-에-대해)
 <!-- POSTS:END -->
 
 ### Gatsby4 Testing Blog posts
