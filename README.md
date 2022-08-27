@@ -111,11 +111,11 @@
 
 ### Blog Posts (Next.js with Notion)
 <!-- POSTS:START -->
+- [Watchtower](https://oznote.io/post/watchtower)
 - [Oracle Cloud 부트볼륨 확장 하기 &lpar;feat. Ubuntu OS&rpar;](https://oznote.io/post/oracle-cloud-부트볼륨-확장-하기-feat-ubuntu-os)
 - [k8s 이용해서 웹 서버 구축하기 - 3부. deploy nextjs](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--3부-deploy-nextjs)
 - [k8s 이용해서 웹 서버 구축하기 - 2부. setup nginx-ingress, ipvs, metalb](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--2부-setup-nginx-ingress-ipvs-metalb)
 - [k8s 이용해서 웹 서버 구축하기 - 1부. install k3s with Calico](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--1부-install-k3s-with-calico)
-- [K8s 의 Calico CNI 에 대해](https://oznote.io/post/k8s-의-calico-cni-에-대해)
 <!-- POSTS:END -->
 
 ### Gatsby4 Testing Blog posts
