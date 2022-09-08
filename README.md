@@ -111,11 +111,11 @@
 
 ### Blog Posts (Next.js with Notion)
 <!-- POSTS:START -->
+- [ARM&lpar;M1, M2, etc&rpar; MacOS 환경에서 Minikube 를 이용하여 K8s 개발환경 설정하기](https://oznote.io/post/armm1-m2-etc-macos-환경에서-minikube-를-이용하여-k8s-개발환경-설정하기)
 - [k8s 이용해서 웹 서버 구축하기 - 5-1부. &lpar;번외편&rpar; PostgreSQL 배포 및 연동](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--5-1부-번외편-postgresql-배포-및-연동)
 - [k8s 이용해서 웹 서버 구축하기 - 5부. MariaDB 배포 및 연동](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--5부-mariadb-배포-및-연동)
 - [k8s 이용해서 웹 서버 구축하기 - 4부. nginx ingress 에 https 적용 &lpar;cert-manager 이용&rpar;](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--4부-nginx-ingress-에-https-적용-cert-manager-이용)
 - [Watchtower 설치 및 사용법](https://oznote.io/post/watchtower-설치-및-사용법)
-- [Oracle Cloud 부트볼륨 확장 하기 &lpar;feat. Ubuntu OS&rpar;](https://oznote.io/post/oracle-cloud-부트볼륨-확장-하기-feat-ubuntu-os)
 <!-- POSTS:END -->
 
 ### Gatsby4 Testing Blog posts
