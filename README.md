@@ -105,17 +105,17 @@
 
 ### Featured Posts
 <!-- FEATURED-POSTS:START -->
-- [k8s 이용해서 웹 서버 구축하기 - 1부. install k3s with Calico](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--1부-install-k3s-with-calico)
-- [스타트업, 어떤 아이디어로 시작할 것인가?](https://oznote.io/post/스타트업-어떤-아이디어로-시작할-것인가)
+- [k8s 이용해서 웹 서버 구축하기 - 1부. install k3s with Calico](https://oznote.io/article/k8s-이용해서-웹-서버-구축하기--1부-install-k3s-with-calico)
+- [스타트업, 어떤 아이디어로 시작할 것인가?](https://oznote.io/article/스타트업-어떤-아이디어로-시작할-것인가)
 <!-- FEATURED-POSTS:END -->
 
 ### Blog Posts (Next.js with Notion)
 <!-- POSTS:START -->
-- [PostgreSQL 한글 적용된 이미지 만들기](https://oznote.io/post/postgresql-한글-적용된-이미지-만들기)
-- [NAS 에서 Docker 를 이용하여 MiniO 구성하기](https://oznote.io/post/nas-에서-docker-를-이용하여-minio-구성하기)
-- [k8s 이용해서 웹 서버 구축하기 - 6부. MiniO 구축하기](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--6부-minio-구축하기)
-- [ARM&lpar;M1, M2, etc&rpar; MacOS 환경에서 Minikube 를 이용하여 K8s 개발환경 설정하기](https://oznote.io/post/armm1-m2-etc-macos-환경에서-minikube-를-이용하여-k8s-개발환경-설정하기)
-- [k8s 이용해서 웹 서버 구축하기 - 5-1부. &lpar;번외편&rpar; PostgreSQL 배포 및 연동](https://oznote.io/post/k8s-이용해서-웹-서버-구축하기--5-1부-번외편-postgresql-배포-및-연동)
+- [PostgreSQL 한글 적용된 이미지 만들기](https://oznote.io/article/postgresql-한글-적용된-이미지-만들기)
+- [NAS 에서 Docker 를 이용하여 MiniO 구성하기](https://oznote.io/article/nas-에서-docker-를-이용하여-minio-구성하기)
+- [k8s 이용해서 웹 서버 구축하기 - 6부. MiniO 구축하기](https://oznote.io/article/k8s-이용해서-웹-서버-구축하기--6부-minio-구축하기)
+- [ARM&lpar;M1, M2, etc&rpar; MacOS 환경에서 Minikube 를 이용하여 K8s 개발환경 설정하기](https://oznote.io/article/armm1-m2-etc-macos-환경에서-minikube-를-이용하여-k8s-개발환경-설정하기)
+- [k8s 이용해서 웹 서버 구축하기 - 5-1부. &lpar;번외편&rpar; PostgreSQL 배포 및 연동](https://oznote.io/article/k8s-이용해서-웹-서버-구축하기--5-1부-번외편-postgresql-배포-및-연동)
 <!-- POSTS:END -->
 
 ### Gatsby4 Testing Blog posts
