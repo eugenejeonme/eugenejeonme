@@ -111,11 +111,11 @@
 
 ### Blog Posts (Next.js with Notion)
 <!-- POSTS:START -->
-- [PostgreSQL 한글 적용된 이미지 만들기](https://oznote.io/article/postgresql-한글-적용된-이미지-만들기)
-- [NAS 에서 Docker 를 이용하여 MiniO 구성하기](https://oznote.io/article/nas-에서-docker-를-이용하여-minio-구성하기)
-- [k8s 이용해서 웹 서버 구축하기 - 6부. MiniO 구축하기](https://oznote.io/article/k8s-이용해서-웹-서버-구축하기--6부-minio-구축하기)
-- [ARM&lpar;M1, M2, etc&rpar; MacOS 환경에서 Minikube 를 이용하여 K8s 개발환경 설정하기](https://oznote.io/article/armm1-m2-etc-macos-환경에서-minikube-를-이용하여-k8s-개발환경-설정하기)
-- [k8s 이용해서 웹 서버 구축하기 - 5-1부. &lpar;번외편&rpar; PostgreSQL 배포 및 연동](https://oznote.io/article/k8s-이용해서-웹-서버-구축하기--5-1부-번외편-postgresql-배포-및-연동)
+- [NAS 에서 Docker 를 이용하여 MiniO 구성하기](https://oznote.io/article/nas-에서-docker-를-이용하여-minio-구성하기-ac09470091244423a086edf5bcc94ef6)
+- [k8s 이용해서 웹 서버 구축하기 - 6부. MiniO 구축하기](https://oznote.io/article/k8s-이용해서-웹-서버-구축하기--6부-minio-구축하기-d46d82070acd45f4819ebaf884417d34)
+- [PostgreSQL 한글 적용된 이미지 만들기](https://oznote.io/article/postgresql-한글-적용된-이미지-만들기-0875035e6adf4793a56f5e8f61d14f58)
+- [ARM&lpar;M1, M2, etc&rpar; MacOS 환경에서 Minikube 를 이용하여 K8s 개발환경 설정하기](https://oznote.io/article/armm1-m2-etc-macos-환경에서-minikube-를-이용하여-k8s-개발환경-설정하기-36e686b5eea04e1ca57fd9723bdc3a8d)
+- [k8s 이용해서 웹 서버 구축하기 - 5-1부. &lpar;번외편&rpar; PostgreSQL 배포 및 연동](https://oznote.io/article/k8s-이용해서-웹-서버-구축하기--5-1부-번외편-postgresql-배포-및-연동-a0be9b041b544853b9e65ada5533b142)
 <!-- POSTS:END -->
 
 ### Gatsby4 Testing Blog posts
