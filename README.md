@@ -105,8 +105,8 @@
 
 ### Featured Posts
 <!-- FEATURED-POSTS:START -->
-- [k8s 이용해서 웹 서버 구축하기 - 1부. install k3s with Calico](https://oznote.io/article/k8s-이용해서-웹-서버-구축하기--1부-install-k3s-with-calico)
-- [스타트업, 어떤 아이디어로 시작할 것인가?](https://oznote.io/article/스타트업-어떤-아이디어로-시작할-것인가)
+- [k8s 이용해서 웹 서버 구축하기 - 1부. install k3s with Calico](https://oznote.io/article/k8s-이용해서-웹-서버-구축하기--1부-install-k3s-with-calico-f4c0834c60c34cd895f004428c0b05c5)
+- [스타트업, 어떤 아이디어로 시작할 것인가?](https://oznote.io/article/스타트업-어떤-아이디어로-시작할-것인가-3b983816c9704932afc1fb0e9a5d5cbc)
 <!-- FEATURED-POSTS:END -->
 
 ### Blog Posts (Next.js with Notion)
