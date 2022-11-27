@@ -105,6 +105,7 @@
 
 ### Featured Posts
 <!-- FEATURED-POSTS:START -->
+- [웹 엔지니어가 알아야 할 기초지식 - Frontend 편](https://oznote.io/article/웹-엔지니어가-알아야-할-기초지식--frontend-편-7598d53693584b06b35521f084d08df6)
 - [프로젝트 버전 관리를 위한 규칙 팁 &lpar;Project version management rules&rpar;](https://oznote.io/article/프로젝트-버전-관리를-위한-규칙-팁-project-version-management-rules-0485b0ad5e36453c8558728d750806ee)
 - [k8s 이용해서 웹 서버 구축하기 - 1부. install k3s with Calico](https://oznote.io/article/k8s-이용해서-웹-서버-구축하기--1부-install-k3s-with-calico-f4c0834c60c34cd895f004428c0b05c5)
 - [스타트업, 어떤 아이디어로 시작할 것인가?](https://oznote.io/article/스타트업-어떤-아이디어로-시작할-것인가-3b983816c9704932afc1fb0e9a5d5cbc)
