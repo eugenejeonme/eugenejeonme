@@ -113,11 +113,11 @@
 
 ### Blog Posts (Next.js with Notion)
 <!-- POSTS:START -->
+- [2023년 눈 여겨보아야할 Javascript 프로젝트 &lpar;상반기&rpar;](https://oznote.io/article/2023년-눈-여겨보아야할-javascript-프로젝트-상반기-329b9313cbde4706b0e11aa1438f1049)
 - [웹 엔지니어가 알아야 할 기초지식 - Frontend 편](https://oznote.io/article/웹-엔지니어가-알아야-할-기초지식--frontend-편-7598d53693584b06b35521f084d08df6)
 - [Lerna + Nx 로 Monorepo 프로젝트 만들기](https://oznote.io/article/lerna-nx-로-monorepo-프로젝트-만들기-3ad9a54c7f514cf8bde515a55db90644)
 - [프로젝트 버전 관리를 위한 규칙 팁 &lpar;Project version management rules&rpar;](https://oznote.io/article/프로젝트-버전-관리를-위한-규칙-팁-project-version-management-rules-0485b0ad5e36453c8558728d750806ee)
 - [NAS 에서 Docker 를 이용하여 MiniO 구성하기](https://oznote.io/article/nas-에서-docker-를-이용하여-minio-구성하기-ac09470091244423a086edf5bcc94ef6)
-- [k8s 이용해서 웹 서버 구축하기 - 6부. MiniO 구축하기](https://oznote.io/article/k8s-이용해서-웹-서버-구축하기--6부-minio-구축하기-d46d82070acd45f4819ebaf884417d34)
 <!-- POSTS:END -->
 
 ### Gatsby4 Testing Blog posts
