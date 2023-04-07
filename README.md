@@ -28,9 +28,9 @@
   Now, interested in AI/ML, also operates a AI/ML study group.<br/>
 </div>
 
-### Skills 
+<!-- ### Skills  -->
 
-#### Frontend - Mobile
+<!-- #### Frontend - Mobile
 
 <div>
   <div>
@@ -46,16 +46,16 @@
     <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/>
     :: <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> 
   </div>
-</div>
+</div> -->
 
-#### Frontend - Web
+<!-- #### Frontend - Web
 
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=react&logoColor=white"/>
   :: <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   :: <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
   & <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-</div>
+</div> -->
 
 <!-- #### Frontend - Game
 
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
 </div> -->
 
-#### Backend and Tools, etc.
+<!-- #### Backend and Tools, etc.
 
 <div>
   <div>
@@ -84,9 +84,9 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?styel=flat-square&logo=Docker&logoColor=white"/>
   </div>
-</div>
+</div> -->
 
-#### Interested in...
+<!-- #### Interested in...
 > Languages & Frameworks & DevOps & MLOps - AIOps
 
 <div>
@@ -101,7 +101,7 @@
   <div>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?styel=flat-square&logo=Kubernetes&logoColor=white"/>
   </div>
-</div>
+</div> -->
 
 ### Featured Posts
 <!-- FEATURED-POSTS:START -->
