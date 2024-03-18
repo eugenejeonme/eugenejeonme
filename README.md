@@ -4,43 +4,27 @@
   
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&random=false&width=512&height=48&lines=%F0%9F%91%8B+Hi+there!+I'm+Eugene+Jeon.;I'm+software+engineer+and+developer.)](https://git.io/typing-svg" />
+## [![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&random=false&width=512&height=48&lines=%F0%9F%91%8B+Hi+there!+I'm+Eugene+Jeon.;I'm+software+engineer+and+developer.)](https://git.io/typing-svg)
 
 <!-- SNS -->
-<div>
-  <!-- <a href="https://epilo9er.com" target="_blank">![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> -->
-  <!-- <a href="https://oznote.io/" target="_blank">![](https://img.shields.io/badge/Blog-200080?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white)</a> -->
-  
-  <a href="mailto:eugenejeon.me@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/eugenejeon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/eugenejeon" target="_blank"><img src="https://img.shields.io/badge/X-black?style=badge&logo=X&logoColor=white"/></a>
-  
-</div>
-
-<br/>
+<!-- <a href="https://epilo9er.com" target="_blank">![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> -->
+<!-- <a href="https://oznote.io/" target="_blank">![](https://img.shields.io/badge/Blog-200080?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white)</a> -->
+[![](https://img.shields.io/badge/Gmail-EA4335?style=badge&logo=Gmail&logoColor=white)](mailto:eugenejeon.me@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eugenejeon/)
+[![](https://img.shields.io/badge/X-black?style=badge&logo=X&logoColor=white)](https://twitter.com/eugenejeon)
 
 <!-- Introduce -->
-<div>
-
-  At first, started as a server backend developer 👨🏻‍💻 in the financial sector (bank).<br/>
-  In the middle, turned to a mobile developer 📱 and still operates 👨‍🏫 a Flutter Study Group.<br/>
-  Now, interested in AI/ML 🤖, also operates a AI/ML study group.<br/>
-  
-</div>
-
-<br/>
+At first, started as a server backend developer 👨🏻‍💻 in the financial sector (bank).<br/>
+In the middle, turned to a mobile developer 📱 and still operates 👨‍🏫 a Flutter Study Group.<br/>
+Now, interested in AI/ML 🤖, also operates a AI/ML study group.<br/>
 
 #### 📊 Github Stats
-<a href="https://github.com/eugenejeonme/github-stats">
-  
-  ![Most Used Languages](https://raw.githubusercontent.com/eugenejeonme/github-stats/output/generated/languages.svg)
+[![Most Used Languages](https://raw.githubusercontent.com/eugenejeonme/github-stats/output/generated/languages.svg)](https://github.com/eugenejeonme/github-stats)
 
-  <!-- ![](https://github-readme-stats.vercel.app/api?username=eugenejeonme&theme=blue-green) -->
-  <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenejeonme&theme=blue-green) -->
-  <!-- ![](https://starchart.cc/{username}/{repo}.svg) -->
-</a>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=eugenejeonme&theme=blue-green) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenejeonme&theme=blue-green) -->
+<!-- ![](https://starchart.cc/{username}/{repo}.svg) -->
 
-<!-- <br/> -->
 
 <!-- ### Skills  -->
 
