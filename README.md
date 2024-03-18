@@ -30,9 +30,9 @@
 
 <br/>
 <!-- ### Skills  -->
-<a href="https://github.com/devpla/github-stats">
- <img src="https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg" width=51% />
-</a>
+<!-- <a href="https://github.com/eugenejeonme/github-stats">
+ <img src="https://raw.githubusercontent.com/eugenejeonme/github-stats/output/generated/languages.svg" width=51% />
+</a> -->
 
 <!-- #### Frontend - Mobile
 
