@@ -4,7 +4,7 @@
   
 </div>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&random=false&width=512&height=48&lines=%F0%9F%91%8B+Hi+there!+I'm+Eugene+Jeon.;I'm+software+engineer+and+developer.)](https://git.io/typing-svg)
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&random=false&width=512&height=48&lines=%F0%9F%91%8B+Hi+there!+I'm+Eugene+Jeon.;I'm+software+engineer+and+developer.)](https://git.io/typing-svg" />
 
 <!-- SNS -->
 <div>
