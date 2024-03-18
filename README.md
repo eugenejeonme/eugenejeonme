@@ -28,11 +28,14 @@
   Now, interested in AI/ML, also operates a AI/ML study group.<br/>
 </div>
 
-<br/>
-<!-- ### Skills  -->
+### 📊 Github Stats
 <a href="https://github.com/eugenejeonme/github-stats">
- <img src="https://raw.githubusercontent.com/eugenejeonme/github-stats/output/generated/languages.svg" width="60%" />
+  ![](https://raw.githubusercontent.com/eugenejeonme/github-stats-transparent/output/generated/languages.svg)
+<!--  <img src="https://raw.githubusercontent.com/eugenejeonme/github-stats/output/generated/languages.svg" width="60%" /> -->
 </a>
+
+<!-- ### Skills  -->
+
 <!-- #### Frontend - Mobile
 
 <div>
