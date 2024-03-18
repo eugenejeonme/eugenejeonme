@@ -28,7 +28,11 @@
   Now, interested in AI/ML, also operates a AI/ML study group.<br/>
 </div>
 
+<br/>
 <!-- ### Skills  -->
+<a href="https://github.com/devpla/github-stats">
+ <img src="https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg" width=51% />
+</a>
 
 <!-- #### Frontend - Mobile
 
