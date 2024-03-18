@@ -22,7 +22,7 @@
 ### 
 <div>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&random=false&width=512&height=48&lines=%F0%9F%91%8B+Hi+there!+I'm+Eugene+Jeon.;I'm+software+engineer+and+developer.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&random=false&width=512&height=48&lines=%F0%9F%91%8B+Hi+there!+I'm+Eugene+Jeon.;I'm+software+engineer+and+developer.)](https://git.io/typing-svg)
   
   At first, started as a server backend developer in the financial sector (bank).<br/>
   In the middle, turned to a mobile developer and still operates a Flutter Study Group.<br/>
