@@ -30,8 +30,9 @@
 
 ### 📊 Github Stats
 <a href="https://github.com/eugenejeonme/github-stats">
-  ![](https://raw.githubusercontent.com/eugenejeonme/github-stats-transparent/output/generated/languages.svg)
-<!--  <img src="https://raw.githubusercontent.com/eugenejeonme/github-stats/output/generated/languages.svg" width="60%" /> -->
+  
+  ![Most Used Languages](https://raw.githubusercontent.com/eugenejeonme/github-stats/output/generated/languages.svg)
+
 </a>
 
 <!-- ### Skills  -->
