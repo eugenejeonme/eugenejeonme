@@ -4,37 +4,39 @@
   
 </div>
 
-<div>
-  <a href="https://oznote.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-200080?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
-  </a>
-  <a href="mailto:eugenejeon.me@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/eMail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/eugenejeon/" target="_blank">
-    <img src="https://img.shields.io/badge/EugeneJeon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/eugenejeon" target="_blank">
-    <img src="https://img.shields.io/badge/eugenejeon-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
-  </a>
-</div>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&random=false&width=512&height=48&lines=%F0%9F%91%8B+Hi+there!+I'm+Eugene+Jeon.;I'm+software+engineer+and+developer.)](https://git.io/typing-svg)
 
-### 
+<!-- SNS -->
 <div>
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&random=false&width=512&height=48&lines=%F0%9F%91%8B+Hi+there!+I'm+Eugene+Jeon.;I'm+software+engineer+and+developer.)](https://git.io/typing-svg)
+  <!-- <a href="https://epilo9er.com" target="_blank">![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> -->
+  <!-- <a href="https://oznote.io/" target="_blank">![](https://img.shields.io/badge/Blog-200080?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white)</a> -->
   
-  At first, started as a server backend developer in the financial sector (bank).<br/>
-  In the middle, turned to a mobile developer and still operates a Flutter Study Group.<br/>
-  Now, interested in AI/ML, also operates a AI/ML study group.<br/>
+  <a href="mailto:eugenejeon.me@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eugenejeon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/eugenejeon" target="_blank"><img src="https://img.shields.io/badge/X-black?style=badge&logo=X&logoColor=white"/></a>
   
 </div>
 
-### 📊 Github Stats
+<br/>
+
+<!-- Introduce -->
+<div>
+
+  At first, started as a server backend developer 👨🏻‍💻 in the financial sector (bank).<br/>
+  In the middle, turned to a mobile developer 📱 and still operates 👨‍🏫 a Flutter Study Group.<br/>
+  Now, interested in AI/ML 🤖, also operates a AI/ML study group.<br/>
+  
+</div>
+
+
+#### 📊 Github Stats
 <a href="https://github.com/eugenejeonme/github-stats">
   
   ![Most Used Languages](https://raw.githubusercontent.com/eugenejeonme/github-stats/output/generated/languages.svg)
 
+  <!-- ![](https://github-readme-stats.vercel.app/api?username=eugenejeonme&theme=blue-green) -->
+  <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenejeonme&theme=blue-green) -->
+  <!-- ![](https://starchart.cc/{username}/{repo}.svg) -->
 </a>
 
 <!-- ### Skills  -->
