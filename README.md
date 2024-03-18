@@ -28,6 +28,7 @@
   
 </div>
 
+<br/>
 
 #### 📊 Github Stats
 <a href="https://github.com/eugenejeonme/github-stats">
@@ -38,6 +39,8 @@
   <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenejeonme&theme=blue-green) -->
   <!-- ![](https://starchart.cc/{username}/{repo}.svg) -->
 </a>
+
+<!-- <br/> -->
 
 <!-- ### Skills  -->
 
