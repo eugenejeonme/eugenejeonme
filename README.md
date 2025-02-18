@@ -20,11 +20,16 @@ Now, interested in AI/ML 🤖, also operates a AI/ML study group.<br/>
 
 #### 📊 Github Stats
 [![Most Used Languages](https://raw.githubusercontent.com/eugenejeonme/github-stats/output/generated/languages.svg)](https://github.com/eugenejeonme/github-stats)
+<!-- 아래 API 를 이용하면 비공개 저장소까지 확인이 안된다. 그래서 Github Action 을 이용, 위 이미지를 만들어 사용한다. -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenejeonme&langs_count=20&layout=compact) -->
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=eugenejeonme&theme=blue-green) -->
+<!-- TODO: wakatime : https://wakatime.com -->
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=eugenejeonme&show_icons=true&theme=blue-green) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenejeonme&theme=blue-green) -->
 <!-- ![](https://starchart.cc/{username}/{repo}.svg) -->
-
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=eugenejeonme&hide_border=true) -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=eugenejeonme&hide_border=true&locale=ko) -->
 
 <!-- ### Skills  -->
 
