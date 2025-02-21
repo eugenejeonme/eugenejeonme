@@ -110,7 +110,7 @@ Now, interested in AI/ML 🤖, also operates a AI/ML study group.<br/>
 <!-- FEATURED-POSTS:START -->
 <!-- FEATURED-POSTS:END -->
 
-<!-- ### Blog Posts -->
+<!-- ### Latest Blog Posts -->
 <!-- POSTS:START -->
 <!-- POSTS:END -->
 
