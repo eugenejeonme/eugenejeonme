@@ -106,13 +106,9 @@ Now, interested in AI/ML 🤖, also operates a AI/ML study group.<br/>
   </div>
 </div> -->
 
-<!-- ### Featured Posts -->
-<!-- FEATURED-POSTS:START -->
-<!-- FEATURED-POSTS:END -->
-
 <!-- ### Latest Blog Posts -->
-<!-- POSTS:START -->
-<!-- POSTS:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- ### Gatsby4 Testing Blog posts -->
 <!-- GATSBY-BLOG-POST-LIST:START -->
