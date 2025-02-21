@@ -108,19 +108,10 @@ Now, interested in AI/ML 🤖, also operates a AI/ML study group.<br/>
 
 <!-- ### Featured Posts -->
 <!-- FEATURED-POSTS:START -->
-<!-- - [웹 엔지니어가 알아야 할 기초지식 - Frontend 편](https://oznote.io/article/웹-엔지니어가-알아야-할-기초지식--frontend-편-7598d53693584b06b35521f084d08df6)
-- [프로젝트 버전 관리를 위한 규칙 팁 &lpar;Project version management rules&rpar;](https://oznote.io/article/프로젝트-버전-관리를-위한-규칙-팁-project-version-management-rules-0485b0ad5e36453c8558728d750806ee)
-- [k8s 이용해서 웹 서버 구축하기 - 1부. install k3s with Calico](https://oznote.io/article/k8s-이용해서-웹-서버-구축하기--1부-install-k3s-with-calico-f4c0834c60c34cd895f004428c0b05c5)
-- [스타트업, 어떤 아이디어로 시작할 것인가?](https://oznote.io/article/스타트업-어떤-아이디어로-시작할-것인가-3b983816c9704932afc1fb0e9a5d5cbc) -->
 <!-- FEATURED-POSTS:END -->
 
-<!-- ### Blog Posts (Next.js with Notion) -->
+<!-- ### Blog Posts -->
 <!-- POSTS:START -->
-<!-- - [Flutter 에 적용할 수 있는 Mterial 3 를 아시나요?](https://oznote.io/article/flutter-에-적용할-수-있는-mterial-3-를-아시나요-3c84a741744b4d17819e623ba09816b6)
-- [당신의 마음을 사로잡을 Flutter in VSCode Tips 4](https://oznote.io/article/당신의-마음을-사로잡을-flutter-in-vscode-tips-4-541153366dc648368b75b6dad7f28dd1)
-- [2023년 눈 여겨보아야할 Javascript 프로젝트 &lpar;상반기&rpar;](https://oznote.io/article/2023년-눈-여겨보아야할-javascript-프로젝트-상반기-329b9313cbde4706b0e11aa1438f1049)
-- [웹 엔지니어가 알아야 할 기초지식 - Frontend 편](https://oznote.io/article/웹-엔지니어가-알아야-할-기초지식--frontend-편-7598d53693584b06b35521f084d08df6)
-- [Lerna + Nx 로 Monorepo 프로젝트 만들기](https://oznote.io/article/lerna-nx-로-monorepo-프로젝트-만들기-3ad9a54c7f514cf8bde515a55db90644) -->
 <!-- POSTS:END -->
 
 <!-- ### Gatsby4 Testing Blog posts -->
