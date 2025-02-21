@@ -108,6 +108,7 @@ Now, interested in AI/ML 🤖, also operates a AI/ML study group.<br/>
 
 <!-- ### Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
+- [깃허브 프로필 꾸미기 1탄 - 블로그 글 보여주고 자동으로 업데이트하기](https://eugenejeon.me/blog/github-action-github)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ### Gatsby4 Testing Blog posts -->
