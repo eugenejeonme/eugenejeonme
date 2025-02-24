@@ -106,7 +106,7 @@ Now, interested in AI/ML 🤖, also operates a AI/ML study group.<br/>
   </div>
 </div> -->
 
-<!-- ### Latest Blog Posts -->
+### ✒️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Github Action을 이용해서 CloudFlare Pages 배포, CI/CD 만들기](https://eugenejeon.me/blog/github-action-cloudflare-pages-deploy-cicd)
 - [깃허브 프로필 꾸미기 1탄 - GitHub Actions로 프로필에 최신 블로그 게시물 자동 업데이트하기](https://eugenejeon.me/blog/github-profile-auto-blog-update)
