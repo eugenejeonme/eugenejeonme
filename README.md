@@ -133,3 +133,8 @@ Now, interested in AI/ML 🤖, also operates a AI/ML study group.<br/>
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=eugenejeonme&title=MultiLanguage,Commits,PullRequest,Repositories&theme=onedark)](https://github.com/eugenejeonme/github-profile-trophy) -->
+
+### 🛠️ Tools in blog
+- [Gitmoji Dictionary](https://eugenejeon.me/tools/gitmoji-dictionary/)
+- [Color Snapper](https://eugenejeon.me/tools/color-snapper/)
+- [JSON Viewer / Editor](https://eugenejeon.me/tools/json-editor/)
